@@ -1,0 +1,33 @@
+center{
+  /* Tamaño de la letra*/
+   font-size: 24;
+   /* Fuente de letra*/
+   font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/* fondo de la pagina*/
+body {
+     background: white;
+}
+
+
+P{
+  /* RGB: RED GREEN BLUE*/
+  /* Colores de la fuente*/
+  color: rgb(0, 0, 0);
+  /* Tamaño de pixeles "Ancho"*/
+  width: 350px
+}
+
+
+P{
+  /* que tan clara es la letra*/
+  font-weight: normal=100;
+
+}
+
+button{
+  color:rgb(0, 0, 0)
+}
